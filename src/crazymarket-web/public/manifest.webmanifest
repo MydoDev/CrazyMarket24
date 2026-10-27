@@ -1,0 +1,10 @@
+{
+  "name": "CrazyMarket 24 Pass",
+  "short_name": "CM24 Pass",
+  "description": "Vstupní karta a věrnostní peněženka autonomní prodejny CrazyMarket 24/7",
+  "start_url": "/pass",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#10b981",
+  "orientation": "portrait"
+}
